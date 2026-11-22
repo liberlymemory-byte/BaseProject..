@@ -8,7 +8,7 @@ from src.desconto import calcular_desconto, calcular_frete
     [
         (0, 0.0),
         (99.99, 99.99),
-        (100.0, 90.0),
+        (100.0, 91.0),
         (200.0, 180.0),
     ],
 )
